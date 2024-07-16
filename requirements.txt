@@ -14,7 +14,7 @@ bcrypt==3.2.2
 beautifulsoup4==4.12.3
 blinker==1.7.0
 bottle==0.12.25
-Brlapi==0.8.5
+# Brlapi==0.8.5
 Brotli==1.1.0
 browser-cookie3==0.19.1
 cairocffi==1.7.0
