@@ -213,4 +213,4 @@ xkit==0.0.0
 yarl==1.9.4
 youtube-dl==2021.12.17
 zstandard==0.22.0
-requests
+requests==2.32.3
